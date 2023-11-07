@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Magic City Gamers"
+rootProject.name = "Magic City Gamers App"
 include(":app")
+ 
