@@ -1,0 +1,57 @@
+:root {
+
+/* Colors: */
+--unnamed-color-4169e2: #4169E2;
+--unnamed-color-002156: #002156;
+--unnamed-color-000000: #000000;
+--unnamed-color-ffffff: #FFFFFF;
+--unnamed-color-3498db: #3498DB;
+--unnamed-color-707070: #707070;
+--unnamed-color-3e78a5: #3E78A5;
+--unnamed-color-030304: #030304;
+
+/* Font/text values */
+--unnamed-font-family-elza: Elza;
+--unnamed-font-family-bankgothic-md-bt: BankGothic Md BT;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-200: 200px;
+--unnamed-font-weight-600: 600px;
+--unnamed-font-weight-medium: medium;
+--unnamed-font-size-42: 42px;
+--unnamed-font-size-48: 48px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-character-spacing-1-68: 1.68px;
+--unnamed-character-spacing-1-92: 1.92px;
+--unnamed-line-spacing-89: 89px;
+--unnamed-line-spacing-101: 101px;
+--unnamed-line-spacing-102: 102px;
+}
+
+/* Character Styles */
+.unnamed-character-style-1 {
+font-family: var(--unnamed-font-family-elza);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-600);
+font-size: var(--unnamed-font-size-48);
+line-height: var(--unnamed-line-spacing-102);
+letter-spacing: var(--unnamed-character-spacing-1-92);
+color: var(--unnamed-color-030304);
+}
+.unnamed-character-style-2 {
+font-family: var(--unnamed-font-family-bankgothic-md-bt);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-48);
+line-height: var(--unnamed-line-spacing-101);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-030304);
+}
+.unnamed-character-style-3 {
+font-family: var(--unnamed-font-family-elza);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-200);
+font-size: var(--unnamed-font-size-42);
+line-height: var(--unnamed-line-spacing-89);
+letter-spacing: var(--unnamed-character-spacing-1-68);
+color: var(--unnamed-color-030304);
+}
